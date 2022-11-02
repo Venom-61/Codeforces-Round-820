@@ -4,6 +4,7 @@ using namespace std;
 #define ll long long
 
 // C. Jumping on Tiles
+//
 
 void solve() {
     string s;
